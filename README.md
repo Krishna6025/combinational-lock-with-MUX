@@ -34,7 +34,7 @@ The PCB was designed using **Fusion360**, marking the first PCB design experienc
 
 ## Repository Contents
 - **PCB Design Files**: Fusion360 project files.
-- **Schematics**: Circuit diagrams in PDF format.
+- **Schematics**: Circuit diagrams in .fsch format.
 
 ## License
 This project is open-source and licensed under the **MIT License**.
